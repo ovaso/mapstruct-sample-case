@@ -58,7 +58,7 @@ Kotlin: 233.14475.28-IJ
 
 ![options](Options.png)
 
-## Installed Plugins (Checking if issue was caused by the incompatible plugin)
+## Installed Plugins (Check if issue was caused by the incompatible plugin)
 
 **N.B. only shows enabled and downloaded**
 
